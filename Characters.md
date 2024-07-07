@@ -1,5 +1,11 @@
 # Circus of Wayward Wonders
-## Performers
+## Wondous Troupe
+Isaac Sarn
+Koren Wagoner
+ManJe' Foxx
+Portia
+
+## Other Performers
 Axel the Unproven - Nature +7, (animal) DC 15
 
 Feather-Fall five - Acrobatics +8, Athletics +6, (team) DC 15
