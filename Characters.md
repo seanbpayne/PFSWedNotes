@@ -1,3 +1,5 @@
+# Notes
+^ references characters named for this campaign
 # Circus of Wayward Wonders
 ## Wondous Troupe
 ### Isaac Sarn
@@ -13,21 +15,25 @@
 ![](images/Portia.jpg)
 
 ## Other Performers
-Axel's Amazing Aviary - Nature +7, (animal) DC 15
+Axel and His Amazing Aviary
 
 ![](https://i.imgur.com/hlhHCM5.png)
 
-Feather-Fall five - Acrobatics +8, Athletics +6, (team) DC 15
-* Kanbali family
+Dwarven throwers
 
-![](https://i.imgur.com/ngz7TQs.png)
+![](https://i.imgur.com/LhXf55l.png)
 
-Elizia the snake charmer - Intimidation +7, nature +7, (animal) DC 15
+Elizia the snake charmer
 * Mister Tickles
 
 ![](https://i.imgur.com/nLF0SiS.png)
 
-Mordaine the Magician - Fortitude save + 8, Thievery +7, (injury, water) DC 15
+Feather-Fall five
+* Kanbali family - Aihab^ and Dhelbi^ (parents), Odvi^, Xondi^, and Sumesh^
+
+![](https://i.imgur.com/ngz7TQs.png)
+
+Mordaine the Magician
 
 ![](https://i.imgur.com/gsMBeSZ.png)
 
@@ -35,33 +41,39 @@ Mordane's Assistant Hod
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/e/e5/Hod.png/revision/latest?cb=20200820175637)
 
-Dwarven throwers - Acrobatics+7, Athletics +10, (team) DC 15
-![](https://i.imgur.com/LhXf55l.png)
-
-Flamboni Sisters - Deception +7, Fortitude Save +7, (fire, injury, team) DC 15
+Flamboni Sisters - Vida^ and Advi^
 
 ![](https://i.imgur.com/wNSNsle.png)
 
 ## Sideshow of Everyday Marvels
-Professor Zarlian Kyosophus
+Professor Zarlian Kyosophus - Half-elf Male
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/9/96/The_Professor.png/revision/latest?cb=20200811232632)
 
-Giddarron Elbus, “The Bearded Man”
+Giddarron Elbus, “The Bearded Man” - Human Male
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/1/1f/Gidarron_Elbus.png/revision/latest?cb=20200816145337)
 
-Tahala Roadwatcher, “The Tattooed Woman”
+Tahala Roadwatcher, “The Tattooed Woman” - Human Female
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/4/4d/Tahala_Roadwatcher_Token.png/revision/latest?cb=20200816145503)
 
-Hesper and Meitas Jaxis, “The Unjoined Twins”
+Hesper and Meitas Jaxis, “The Unjoined Twins” - Human Females
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/3/34/Hesper_and_Meitas_Jaxis_token.png/revision/latest?cb=20200816145642)
 
-Cubby, “The Dog-Faced Dog”
+Cubby, “The Dog-Faced Dog” - Male 
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/1/1e/Cubby.png/revision/latest?cb=20200816145905)
+
+## Cast of Clowns
+![By Miscellaneous Items in High Demand, PPOC, Library of Congress](images/circus_clowns.jpg)
+* Matteo Sammarco^ - Male
+* Lino D'Ambra^ - Male
+* Eros Coscia^ - Male
+* Lorella Cocca^ - Female
+* Oriana Tavani^ - Female
+* Donata Mastronardi^ - Female
 
 ## Others
 Bardolph
@@ -87,17 +99,36 @@ Hemmema, a grandmother
 
 Fey - Tarisia and Cannono
 
-Goldenlaws Church
-* Nellyn Drend - priest-banker
+Goldenlaws Church - Nellyn Drend, priest-banker
 
-Lindell Brothers
+Lindell Brothers - Jano and Bindo Lindell
 
-Mad Mug
+## Mad Mug
 * Lenky & Beina - owners
 * Rulf Oddfingers - server
 * Pruana Two-Punch, Violet, and associted ruffians
+
+![](https://static.wikia.nocookie.net/dice-will-roll/images/d/df/Tdarko-stojanovic-pruana-two-punch-web2.jpg/revision/latest?cb=20201222202331)
 
 # Hermitage of Blessed Lightning
 Harlock Hamdeel
 
 # Celestial Menagerie
+## Mistress Dusklight
+![](https://pbs.twimg.com/media/Etk4b_wXIAA30JE?format=jpg&name=900x900)
+
+## Performers
+Daring Danika - Female human lion-tamer with Leandrus - Male lion
+
+![](https://static.wikia.nocookie.net/dice-will-roll/images/3/37/Unknown-1.png/revision/latest?cb=20201218164910)
+
+Jellico Bounce-Bounce - Male human clown
+
+![](https://static.wikia.nocookie.net/dice-will-roll/images/e/ed/Jellico_Bounce_Bounce.jpg/revision/latest?cb=20201218200831)
+
+Viktor Volkano - Male Human fire-breather
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2011_1015_190306AA.JPG/800px-2011_1015_190306AA.JPG?20150116050412)
+
+## Others
+Mechanical Carny
