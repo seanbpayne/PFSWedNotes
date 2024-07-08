@@ -1,12 +1,16 @@
 # Circus of Wayward Wonders
 ## Wondous Troupe
-Isaac Sarn
+### Isaac Sarn
+![](images/Isaac_Sarn.png)
 
-Koren Wagoner
+### Koren Wagoner
+![](images/Koren.jpg)
 
-ManJe' Foxx
+### ManJe' Foxx
+![](images/Manje.png)
 
-Portia
+### Portia
+![](images/Portia.jpg)
 
 ## Other Performers
 Axel's Amazing Aviary - Nature +7, (animal) DC 15
@@ -61,6 +65,8 @@ Cubby, “The Dog-Faced Dog”
 
 ## Others
 Bardolph
+
+![](images/Bardolph.jpg)
 
 Myron "Thunder" Stendhal
 
