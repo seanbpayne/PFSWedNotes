@@ -3,7 +3,11 @@ Notes for the Wednesday Extinction Curse game at Dragons Lair Medical Center.
 
 [Cast of Characters](Characters.md)
 
-Current date in game: Sunday, 28 Sarenth 4720 AR. Current location is Abberton on the Isle of Erran, in the Inner Sea.
+[Circus Rules](circus.md)
+
+[PF2 Rules Cheatsheet](rules.md)
+
+Current date in game: Sunday, 28 Sarenth 4720 AR. Current location is Abberton on the Isle of Erran, in the Inner Sea. Current circus prestige is 2.
 
 # Out of Character Notes
 ## Rules

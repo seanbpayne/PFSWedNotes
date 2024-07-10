@@ -62,7 +62,7 @@ Hesper and Meitas Jaxis, “The Unjoined Twins” - Human Females
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/3/34/Hesper_and_Meitas_Jaxis_token.png/revision/latest?cb=20200816145642)
 
-Cubby, “The Dog-Faced Dog” - Male 
+Cubby, “The Dog-Faced Dog” - Male Awakened Animal (Beagle)
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/1/1e/Cubby.png/revision/latest?cb=20200816145905)
 
@@ -83,6 +83,8 @@ Bardolph
 Myron "Thunder" Stendhal
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/d/d3/Marko-horvatin-the-professor.jpg/revision/latest?cb=20200809125557)
+
+About 5 other non-performer NPCs
 
 # Abberton & Area
 Mayor Jae Abber
