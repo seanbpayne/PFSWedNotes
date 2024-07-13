@@ -11,8 +11,13 @@
 ### ManJe' Foxx
 ![](images/Manje.png)
 
+### Mithril-Dar
+
 ### Portia
 ![](images/Portia.jpg)
+
+### Zathra "Azure Treasure"
+![](images/Zathra.png)
 
 ## Other Performers
 Axel and His Amazing Aviary
