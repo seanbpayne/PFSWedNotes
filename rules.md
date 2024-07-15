@@ -21,10 +21,14 @@
 Escape, Grab a Ledge
 Inpersonate
 ## Skill actions
+Acrobatics
+* **Balance:** Move across an area with a Balance DC. Critical Success: move up to your speed. Success: move up to your speed, treating it as difficult terrain. Failure: you must remain stationary or you fall, if you fall your turn ends. Critical Failure: you fall and your turn ends.
+* **Tumble Through:** Acrobatics vs Reflex DC. Success: You treat the enemy squares as difficult terrain. Failure: your movement ends.
+
 Athletics
-* **Disarm:** Athletics vs Reflex, +2 to further disarm and -2 penalty to attack with that weapon on success, target drops the item on critical success, you are off guard until start of your next turn on critical failure
+* **Disarm (trained only):** Athletics vs Reflex, +2 to further disarm and -2 penalty to attack with that weapon on success, target drops the item on critical success, you are off guard until start of your next turn on critical failure
 * **Grapple:** Athletics vs Fortitude
-* **Repoisition:** Athletics vs Fortitude, must stay within reach, move 5 ft on success, 10 ft on critical success, crit failure target can move you 5 ft.
+* **Reposition:** Athletics vs Fortitude, must stay within reach, move 5 ft on success, 10 ft on critical success, crit failure target can move you 5 ft.
 * **Shove:** Athletics vs Fortitude, push 5 ft on success, 10 ft on critical success, you fall prone on critical failure, can follow but must move same distance and direction
 * **Trip:** Athletics vs Reflex, falls prone on success, falls prone and takes 1d6 bludgeoning on critical success, you fall prone on critical failure
 
@@ -56,6 +60,11 @@ You’ll often need to determine whether someone can Take Cover. They usually ju
 **Halfing:** Roll all dice and then take half, round down (minimum 1)
 
 **Increasing Die size:** 1d4 » 1d6» 1d8 » 1d10 »1d12 (can’t go beyond 1d12, can’t increase by more than 1)
+
+**Circumstance bonuses:** The state of the world. Cover, shields, etc.
+
+**Status bonuses:** generally magic
+
 # Conditions
 * **Wounded:** You loose the wounded condition when someone uses Treat Wounds to restore HP or you are restored to full HP by any means and rest for 10 min.
 # Tags
@@ -86,6 +95,8 @@ Archetype, [Alchemist,](https://2e.aonprd.com/Traits.aspx?ID=7) Barbarian, Bard,
 ## Class specific Traits
 Additive, Amp, Composite, Composition, Cursebound, Eidolon, Esoterica, Evolution, Finisher, Hex, Impulse, Infused, Infusion, Litany, Modification, Oath, Overflow, Psyche, Rage, Social, Spellshot, Stance, Tandem, Unstable, Vigilante
 ## Special
+**Attack** (trait): Anything with the attack trait interacts with the multiple attack penalties
+
 **Incapacitation** (trait) An ability with this trait can take a character completely out of the fight or even kill them, and it’s harder to use on a more powerful character. If a spell has the incapacitation trait, any creature of more than twice the spell’s rank treats the result of their check to prevent being incapacitated by the spell as one degree of success better, or the result of any check the spellcaster made to incapacitate them as one degree of success worse. If any other effect has the incapacitation trait, a creature of higher level than the item, creature, or hazard generating the effect gains the same benefits.
 
 **Nonlethal:** If the last attack has the non-lethal trait, the opponent is knocked out instead of killed. You can attack with a weapon at -2 to give it the nonlethal trait. An attack with the nonlethal trait can do lethal damage with a -2 penalty.
@@ -95,6 +106,10 @@ Additive, Amp, Composite, Composition, Cursebound, Eidolon, Esoterica, Evolution
 
 ## Persistant Damage
 You take persistent damage at the end of your turn.
+
+## Reactive Strike
+Trigger: A creature uses a manipulate action, a move action, makes a ranged attack, or leaves a square during a move action it's using
+
 # Scaling encounters up to 6 players
 Notes: to reduce the complexity of encounters avoid adding new types of creatures
 1. Determine the encounter threat & XP budget

@@ -1,27 +1,79 @@
 # Tricks
 
-Optional rule: Perform the trick at a lower level for a lower DC.
+Optional rules: 
+* **Easier Trick:** Perform the trick at a lower level for a lower DC. But you can only go up in an act, never down.
+* **Harder Trick:** Add the injury tag to a trick that did not have it or increase the DC by 2 if it already had the injury tag. If you succed at the trick check you gain additional excitement equal to half your trick level.
+
+## Performing a Trick
+Make a trick check against a DC equal to the performer's level DC.
+* **Success** Gain excitement equal to the trick/PC level, 
+* **Critical Success:** Gain excitement equal to the trick’s level AND anticipation equal to half the trick’s level (round up). 
+* **Failure** No effect.
+* **Critical failure** Lose excitement equal to half the trick’s level (round up) and if it has the injury trait requires the performer to make a DC 15 flat check or become injured (cannot perform for the rest of the show, maybe longer).
+
+You can make multiple trick checks as part of an act, with a pentalty similar to the multi-attack penalty. The second attempts per takes a -5 penalty, The third (and greater) attempts take a -10 penalty. 
+
+Once per act can send in the clowns (costs one action) for one trick check. This raises a Critical Failure to a failure or a failure to a success.
 
 ## Building
 | Trick Level | Benefits |
 |:-----------:|:--------:|
 | 1 | 1 trick check, 1 trick trait |
-| 4 | 2 trick check, 1 trick trait |
-| 8 | 2 trick check, 2 trick trait |
-| 12 | 2 trick check, 3 trick trait |
-| 16 | 3 trick check, 3 trick trait |
-| 20 | 3 trick check, 4 trick trait |
+| 4 | 2 trick checks, 1 trick trait |
+| 8 | 2 trick checks, 2 trick traits |
+| 12 | 2 trick checks, 3 trick traits |
+| 16 | 3 trick checks, 3 trick traits |
+| 20 | 3 trick checks, 4 trick traits |
 
-## Trick Traits
+A check is a Skill check, attack roll, or save. 
+
+A PC must have access to a trait to add it to their signature trick; to gain access to a trait, the circus must have hired an NPC performer whose trick includes that trait.
+
+If a trick trait’s name is followed by the name of a skill in parentheses, then a performer gains a +1 circumstance bonus to Perform a Trick with that trait using that skill check. For example, a performer whose trick has the aerial trick trait gains a +1 circumstance bonus to Acrobatics trick checks.
+
+### Additional Circus Trick
+Feat 3
+
+**Tags:** General Circus
+
+**Prerequisite:** You must have a signature trick.
+
+Your signature trick can have one additional trait beyond the number provided in Table 2: Trick Progression on page 63 of Pathfinder #151: The Show Must Go On. If the trick trait has an associated skill (such as Intimidation with the fire trait) and that skill is one of your trick checks, your checks with that skill to Perform a Trick aren’t penalized if you Perform a Trick using a different skill. For example, if your signature trick has Acrobatics and Intimidation as trick checks and you take this feat to add the fire trait, you can Perform a Trick using Acrobatics (at no penalty), then Acrobatics again (at a -5 penalty), and then Intimidation (at no penalty).
+
+### Improving NPC Tricks
+**Prerequisite:** You must be at least the level of the trick to be improved and have check bonus equal to 10 + level approriate DC.
+
+Work with an NPC to improve their trick. Spend 14 days working with them
+
+* Critical Success Your attempt is successful. The trick greatly benefits from your guidance and work. Improve the level of the trick by +1 and they get a +1 in the trick check.
+* Success Your attempt is successful. The trick benefits from your guidance and work. Improve the level of the trick by +1 or they gain +1 to the trick check.
+* Failure Your attempt is unsuccessful. The trick is unaffected.
+* Critical Failure Your attempt is unsuccessful. The performers are demoralized or confused by your attempts to improve the show. Level of the trick is changed by -1.
+
+## Trick Equipment
+Generic item bonuses always apply.
+
+* Special gear for a trick is available at level 3, costs 50 gp and gives a +1 item bonus. Magical gear is also available at level 8, costs 450 gp, gives a +2 item bonus. Greater magical gear is available at level 16, costs 9,000 gp and gives a +3 item bonus.
+* Costume changes: PCs can go on to support other characters with a costume change. 
+
+## Available Trick Traits
+**Agile:** The penalty for performing an agile trick a second or third time in the same act is –4 or –8, respectively, instead of –5 or –10.
+
+**Animal (Nature):** The trick utilizes trained animals.
+
+**Fire (Intimidation):** This trick involves fire, smoke, or pyrotechnics. 
+
+**Team**: This trick requires more than one person. Anytime a PC performing a signature trick accepts the Costar reaction from a performer, the trick has this trait. 
+
+**Water (Athletics):** The trick features water as a primary component of its performance.
+
+## Unavailable Trick Traits
+
 **Aerial (Acrobatics):** The trick involves flight by either magical or mundane means.
 
 **Air (Survival):** The trick involves the manipulation of mist, wind, or another prop with atmospheric properties.
 
 **Alchemical:** As part of the trick, the performer can expend one alchemical item in their possession. Upon doing so, the performer gains a +1 circumstance bonus to their trick check. This destroys the item.
-
-**Agile:** The penalty for performing an agile trick a second or third time in the same act is –4 or –8, respectively, instead of –5 or –10.
-
-**Animal (Nature):** The trick utilizes trained animals.
 
 **Audience (Society):** The audience participates in the trick.
 
@@ -34,13 +86,11 @@ Optional rule: Perform the trick at a lower level for a lower DC.
 **Emotion:** The trick uses alchemical or magical effects to induce a powerful emotional response from the audience. A trick must have either the alchemical or magical trait in order to have the emotion trait. Whenever a performer succeeds or critically succeeds at a trick check with the emotion trait, they can reduce the amount of Excitement or Anticipation (or both) the trick generates however they wish, down to a minimum of 0
 Excitement or Anticipation.
 
-**Explosive^:** Tricks with the explosive trait call attention away from other acts distracting them from slight mistakes. This trick gains the injury trait but other tricks performed at the same time have -1 to their DC
+**Explosive^:** Tricks with the explosive trait call attention away from other acts distracting them from slight mistakes. This trick gains the injury trait but other tricks performed at the same time have -1 to their DC.
 
-**Fire (Intimidation):** This trick involves fire, smoke, or pyrotechnics. 
+**Injury:** Anytime a PC uses a saving throw for one of the trick checks, the trick has this trait. If an NPC or PC performing a trick with the injury trait critically fails any trick check, they have a chance of becoming injured. To determine if the performer is injured, roll a flat DC 15 check. On a failure, the performer becomes injured. An injured performer (whether PC or NPC) cannot perform tricks for the rest of the show. In addition, at the beginning of the next show, the injured performer must succeed at a flat DC 15 check to determine if they have recovered sufficiently to perform again. On a failure, the performer cannot perform in that show, either due to the lasting effects of the injury or due to fright of becoming injured again. A performer can miss only one show after the show in which they were injured. On subsequent shows, no check is necessary and the PC or NPC can once again perform as normal.
 
-**Injury*:** Anytime a PC uses a saving throw for one of the trick checks, the trick has this trait. If an NPC or PC performing a trick with the injury trait critically fails any trick check, they have a chance of becoming injured. To determine if the performer is injured, roll a flat DC 15 check. On a failure, the performer becomes injured. An injured performer (whether PC or NPC) cannot perform tricks for the rest of the show. In addition, at the beginning of the next show, the injured performer must succeed at a flat DC 15 check to determine if they have recovered sufficiently to perform again. On a failure, the performer cannot perform in that show, either due to the lasting effects of the injury or due to fright of becoming injured again. A performer can miss only one show after the show in which they were injured. On subsequent shows, no check is necessary and the PC or NPC can once again perform as normal.
-
-**Juggling*:** This act involves some form of keeping multiple objects in the air at the same time.
+**Juggling:** This act involves some form of keeping multiple objects in the air at the same time.
 
 **Magical:** The trick involves the use of magic. While Performing the Trick, the performer can expend one spell slot of any level. If the performance succeeds or critically succeeds, the trick generates an additional amount of Excitement equal to the expended spell slot’s level.
 
@@ -50,32 +100,11 @@ Excitement or Anticipation.
 
 **Slight of Hand (Thievery)^:** A trick with this trait directs audience eyes away from quick fingers, aces up sleeves and other sneaky yet mundane tricks.
 
-**Team**: This trick requires more than one person. Anytime a PC performing a signature trick accepts the Costar reaction from a performer, the trick has this trait. 
-
 **Time:** The trick involves distorting or altering time in some way. A performer whose trick has the time trait can perform that trick one additional time per act, taking a penalty to the fourth trick check equal to the penalty to the third trick check.
-
-**Water (Athletics):** The trick features water as a primary component of its performance.
-
-## Trick Equipment
-Generic item bonuses always apply.
-
-* Special gear for the trick is available at level 3, costs 50 gp and gives a +1 item bonus. Magical gear is also available at level 8, costs 450 gp, gives a +2 item bonus. Greater magical gear is available at level 16, costs 9,000 gp and gives a +3 item bonus.
-
-## Performing
-Make one of the trick checks associated with your trick. The DC is based on your level. 
-
-* **Critical Success** You generate Excitement equal to the trick’s level; this Excitement is added to the circus’s total Excitement for the show. You also generate Anticipation equal to half the trick’s level (rounded up); this Anticipation is added to the circus’s total Anticipation for the show.
-
-* **Success** You generate Excitement equal to the trick’s level; this Excitement is added to the circus’s total Excitement for the show.
-
-* **Failure** No effect.
-
-* **Critical Failure** The circus’s Excitement value decreases by a
-value equal to half the trick’s level (rounded up).
 
 # Circus Procedure
 
-## Downtime
+## Between Shows
 1. Buy permanent upgrades
 2. Buy advertisements
 
@@ -94,7 +123,7 @@ value equal to half the trick’s level (rounded up).
 | 11 |  2,000 gp | 40 |
 | 12 |  3,000 gp | 50 |
 
-3. Promote the show (up to 3 times)
+3. Promote the show (only one at a time, 2 days per check, up to 3 checks)
     * Level appropriate DC Society check, 
         * **Cricital Success** You generate Anticipation equal to twice the sum of your level plus your Charisma modifier (minimum 2).
         * **Success** gives bonus to anticipation equal to your level + Charisma Modifier (minimum 1)
@@ -106,31 +135,41 @@ value equal to half the trick’s level (rounded up).
 ## Circus Day
 1. Plan show format
 2. Purchase temporary upgrades
-    * Beer (5 GP) - The circus generates an additional 2d6 Anticipation for the next show, and tricks with the audience trait gain a +2 circumstance bonus. However, the hecklers event (page 66) is automatically triggered, in addition to any other random event rolled.
+    * Beer (5 GP) - The circus generates an additional 2d6 Anticipation for the next show and tricks with the audience trait gain a +2 circumstance bonus. However, the hecklers event (page 66) is automatically triggered, in addition to any other random event rolled.
     * Confections (15 gp, min 5 prestige) - The circus generates an additional 2d6 Excitement at the start of the next show.
-    * Disposable Binoculars (25 gp, min 8 prestige)
+    * Disposable Binoculars (25 gp, min 8 prestige) - Increases Maximum Anticipation by 20.
     * Merchandise, basic (20 gp, min 3 prestige) - The circus retains 25% of its final Anticipation (rounded down).
     * Merchandise, quality (40 gp, min 6 prestige) - The circus retains 50% of its final Anticipation (rounded down).
     * Merchandise, extraordinary (60 gp, min 10 prestige) - The circus retains 75% of its final Anticipation (rounded down).
 3. Choose non-performer roles
-    * animal handler, backup clown, bandleader, carnival barker, clown coordinator, costumer, lighting, medic, pyrotechnic, security guard
 4. Roll for random events
 5. Tally starting anticipation
-6. Perform tricks
+6. Select Ringmaster
+    * Between acts a Ringmaster can make a level approrpriate Diplomacy or Deception check.
+        * **Critical Success** Generate Anticipation and Excitement equal to the trick level. 
+        * **Success** Generate Anticipation equal to the trick level.
+        * **Failure** Lose Excitement equal to half the trick level (rounded down)
+        * **Critical Failure** Lose Anticipation and Excitement equal to half the the trick level (rounded down).
+7. Perform tricks
     * First Act (Opener)- one trick
-        * **Critical Success** in the opener gives a +1 bonus to all tricks in the remaining three acts
+        * **Critical Success** in the opener gives a +1 circumstance bonus to all tricks in the remaining three acts
         * **Critical Failure** in the opener gives a -1 penalty to all tricks in the remaining three acts
+        * Audience tricks gain a +1 circumstance bonus
     * Second Act (Build-Up) - two tricks
+        * Tricks with multiple performers gain +1 circumstance bonus
     * Third Act (Big Number) - one trick
-    * Fourth Atc (finale) - three tricks
-7. Calculate success & payout
+        * If the trick is not the highest DC in the show then half excitement is generated and double any exitement penalty.
+        * Spectacular tricks gain a +1 circumstance bonus as well as tricks with the team trait (doesn't stack)
+    * Fourth Act (finale) - three tricks
+        * If all three performers succeed on their check add additional excitement based on the highest total act excitement generated from the best performer.
+8. Calculate success & payout
     * Gold
         * Exitement > Anticipation: (Success). Payout is Prestige + Final Anticipation (in gp)
         * Exitement = Anticipation: (Critical Success). Payout is twice what it would have been for a success
         * Exitement < Anticipation: (Failure). Payout is (Prestige + Final Excitment) x 1/4 (in gp)
     * Prestige
         * Critical Success: Prestige +4
-        * Critical Success: Prestige +2
+        * Success: Prestige +2
         * Failure: Prestige +1
 
 ## Non-performer Roles
@@ -157,9 +196,13 @@ value equal to half the trick’s level (rounded up).
 **Stooge^:** Performers get a +1 circumstance bonus to trick checks with the Audience or Drag trait.
 
 ## Random Circus Events
+Currently have 14
+
 **Animals Break Loose:** Animal tricks can’t be performed during the show, and the crowd’s Excitement and Anticipation each increase by 2d6 (rolled separately).
 
 **Bad Weather:** Trick checks with the aerial or fire trait take a –2 circumstance penalty and trick checks with the earth trait gain a +2 circumstance bonus. If the show is a success, the Payout is doubled.
+
+**Broken Equipment^:** A random performer's equipment breaks. It gives a -2 penalty to their trick check.
 
 **Clown Lung:** Performers cannot Send in the Clowns unless a PC takes the backup clown non-performer role. Equipment Malfunction: The NPC with the highest trick level (chosen randomly in the case of a tie) cannot perform in the show.
 
@@ -177,10 +220,41 @@ value equal to half the trick’s level (rounded up).
 
 **Scalpers:** The PCs’ Prestige (page 67) is treated as 3 less (minimum 1) when calculating Payout.
 
+**Sold Out!** Your starting anticipation is raised to max anticipation
+
 **Stars Align:** Trick check DCs decrease by 2.
 
 **Tent Breaks:** The circus’s maximum Anticipation for the show decreases by 10.
 
 **Wealthy Patrons^:** The payout is doubled on a successful performance (no bonus on critical success).
 
-Portions of this page are covered under the OPEN GAME LICENSE VERSION 1.0A
+## Permanent Upgrades
+| Upgrade | Price | Min. Prestige |
+|:-------|:-----:|:-------------:|
+|Acoustics|30 gp| 5|
+|Flooring, safety net|20 gp| -|
+|Flooring, padded floors|100gp|6|
+|Seating, bleachers| 50 gp|5|
+|Seating, assigned seats| 100 gp|10|
+|Seating, upholstered seats| 250 gp|15|
+|Spotlights|40 gp|4|
+|Tent expansion (max 50 anticpation)|40 gp|3|
+|Tent expansion (max 100 anticpation)|100 gp|10|
+|Tent expansion (max 200 anticpation)|300 gp|15|
+|Watermarked tickets|50 gp|-|
+
+**Acoustics:** PCs and NPCs gain a +1 circumstance bonus to trick checks with the musical trait. After purchasing this upgrade, the bandleader role becomes available to PCs.
+
+**Flooring:** With a safety net, the DC of the flat checks to determine if a performer becomes injured decreases to 10. With padded floors, the flat check DC decreases to 5.
+
+**Seating:** Quality seating options generate additional Excitement for the circus’s shows but reduce the circus’s maximum Anticipation by 10. At the start of each show, a circus with bleachers generates 5 Excitement. A circus with assigned seats generates 10 Excitement instead, and upholstered seats instead generate 20 Excitement.
+
+**Spotlights:** This upgrade grants a permanent +1 increase to the circus’s Prestige. In addition, after purchasing this upgrade, a PC can choose the lighting role during circus shows.
+
+**Tent Expansions:** Bigger tents increase the circus’s maximum Anticipation limit. 
+
+**Watermarked Tickets:** For the purpose of calculating Payout, a circus with watermarked tickets Prestige is treated as 2 points higher than it actually is.
+
+Portions of this page are covered under the OPEN GAME LICENSE VERSION 1.0A. Sources: 
+* Pathfinder Adventure Path #151: The Show Must Go On (Extinction Curse 1 of 6), by Paizo press. https://paizo.com/products/btq01zqb
+* Circus Rules Plus+, https://scribe.pf2.tools/v/QT82vSYx-circus-rules-plus
