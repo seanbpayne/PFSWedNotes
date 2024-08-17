@@ -96,17 +96,23 @@ Mayor Jae Abber
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/d/d1/Mayor_Abber.png/revision/latest?cb=20200823172212)
 
-Sheriff Ralhain
+Sheriff Ralhain (dead)
 
 Drunkards - Jaleen and Rhovo
 
 Hafton Family - Seirah, Rikart, and Aima
+* Rikart Hafton ![](images/Rikart%20Hafton.png)
+* Seirah Hafton ![](images/Seirah%20Hafton.png)
+* Aima Hafton ![](images/Aima%20Hafton.png)
 
 Hemmema, a grandmother
+
+![](images/Hemmema.png)
 
 Fey - Tarisia and Cannono
 
 Goldenlaws Church - Nellyn Drend, priest-banker
+![](images/Nellyn Drend.png)
 
 Lindell Brothers - Jano and Bindo Lindell
 
@@ -139,3 +145,4 @@ Viktor Volkano - Male Human fire-breather
 
 ## Others
 Mechanical Carny
+![](images/Mechanical%20Carney.png)

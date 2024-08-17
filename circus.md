@@ -1,8 +1,8 @@
 # Tricks
 
 Optional rules: 
-* **Easier Trick:** Perform the trick at a lower level for a lower DC. But you can only go up in an act, never down.
-* **Harder Trick:** Add the injury tag to a trick that did not have it or increase the DC by 2 if it already had the injury tag. If you succed at the trick check you gain additional excitement equal to half your trick level.
+* **Easier Trick:** Perform the trick at a lower level for a lower DC. Additional trick checks in the same act can only go up, never down.
+* **Harder Trick:** Add the injury tag to a trick that did not have it or increase the DC by 2 if it already had the injury tag. If you succeed at the trick check you gain additional excitement equal to half your trick level.
 
 ## Performing a Trick
 Make a trick check against a DC equal to the performer's level DC.
@@ -41,9 +41,9 @@ Feat 3
 Your signature trick can have one additional trait beyond the number provided in Table 2: Trick Progression on page 63 of Pathfinder #151: The Show Must Go On. If the trick trait has an associated skill (such as Intimidation with the fire trait) and that skill is one of your trick checks, your checks with that skill to Perform a Trick aren’t penalized if you Perform a Trick using a different skill. For example, if your signature trick has Acrobatics and Intimidation as trick checks and you take this feat to add the fire trait, you can Perform a Trick using Acrobatics (at no penalty), then Acrobatics again (at a -5 penalty), and then Intimidation (at no penalty).
 
 ### Improving NPC Tricks
-**Prerequisite:** You must be at least the level of the trick to be improved and have check bonus equal to 10 + level approriate DC.
+**Prerequisite:** You must be at least the level of the trick to be improved and have check bonus equal to 10 + level appropriate DC.
 
-Work with an NPC to improve their trick. Spend 14 days working with them
+Work with an NPC to improve their trick. Spend 7 days working with them
 
 * Critical Success Your attempt is successful. The trick greatly benefits from your guidance and work. Improve the level of the trick by +1 and they get a +1 in the trick check.
 * Success Your attempt is successful. The trick benefits from your guidance and work. Improve the level of the trick by +1 or they gain +1 to the trick check.
