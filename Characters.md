@@ -5,6 +5,8 @@
 ### Isaac Sarn
 ![](images/Isaac_Sarn.png)
 
+### Jaak Turngear
+
 ### Koren Wagoner
 ![](images/Koren.jpg)
 
@@ -12,6 +14,7 @@
 ![](images/Manje.png)
 
 ### Mithril-Dar
+![](images/Mithril-Dar.png)
 
 ### Portia
 ![](images/Portia.jpg)

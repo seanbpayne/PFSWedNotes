@@ -205,55 +205,71 @@ Permanent Magic +2, item 9, 575-700 gp
 Permanent Magic +3, item 17, 12,000-15,000 gp
 
 # Remaster Mapping
+## Meta
+* Chaos -> dissolution
+* Law -> Order
+* Negative damage -> void damage
+* Positive damage -> vitality damage
+## Locations
+* Abyss -> Outer Rifts
+* City of Brass -> Medina Mudii'a
+* Negative Energy Plane -> The Void
+## Languages
+* Auran -> Susurran
+* Ignan  -> Pyric
+* Terrran -> Petran
 ## Items
-Bag of Holding -> Spacious pouch
-Everburning torch -> Everlight Crystal
-Mythril -> Dawnsilver
-Tanglefoot Bag - Glue bomb
+* Bag of Holding -> Spacious pouch
+* Everburning torch -> Everlight Crystal
+* Mythril -> Dawnsilver
+* Tanglefoot Bag - Glue bomb
 ## Monsters
-Black Pudding -> Living Tar
-Brain Collector -> Jah-Tohl
-Brown Mold - Poisonous Mold
-Crysmal -> Cullitox
-Demon, Balor -> Demon, Vrolikai
-Demon, Dretch -> Demon, Pusk
-Demon, Quasit -> Imp
-Devil, Erinys -> Devil, Coarti
-Devil, Lemure -> Devil, Ort
-Devil, Pit Fiend -> Devil, Nessari
-Djinni -> Jaathoom
-Dragon, Blue -> Dragon, Mirage
-Dragon, Green -> Dragon, Horned
-Dragon, Silver -> Dragon, Empyreal
-Duegar -> Hryngar
-Efreeti -> Ifrit
-Farie Dragon -> Draonnet, Fey
-Gelatinous Cube -> String Slime
-Ghoul -> Ghoul Stalker
-Girallon -> Angazhani
-Gnoll -> Kholo
-Golem, Alchemical -> Noxious Needler
-Golem, Clay -> Clay Effigy
-Golem, Flesh -> CHarnel Creation
-Golem, Fossil -> Paleohemoth
-Golem, Iron -> Iron Warden
-Golem, Stone -> Sone Bulwark
-Hag, Annis -> Hag, Iron
-Hag, Green -> Hag, Sweet
-Hag, Night -> Hag, Cukoo
-Ifrit -> Naari
-Intelect Devourer -> Xoarian
-Invisible Stalker -> Phade
-Kyton -> Velstrac
-Marid -> Faydhaan
-Mephit -> Scamp
-Mite -> Mitflit
-Ochre Jelly -> Tomb Jelly
-Sea Devil -> Sedacthy
-Shaitan -> Jabali
-Shambling Mound -> Sargassum Heap
-Svirneblin -> Drathnelar
-Treant -> Aboreal
+* Azer -> Munsahir
+* Black Pudding -> Living Tar
+* Brain Collector -> Jah-Tohl
+* Brown Mold - Poisonous Mold
+* Crysmal -> Cullitox
+* Demon, Balor -> Demon, Vrolikai
+* Demon, Dretch -> Demon, Pusk
+* Demon, Quasit -> Imp
+* Devil, Erinys -> Devil, Coarti
+* Devil, Lemure -> Devil, Ort
+* Devil, Pit Fiend -> Devil, Nessari
+* Djinni -> Jaathoom
+* Dragon, Blue -> Dragon, Mirage
+* Dragon, Green -> Dragon, Horned
+* Dragon, Silver -> Dragon, Empyreal
+* Duegar -> Hryngar
+* Efreeti -> Ifrit
+* Farie Dragon -> Draonnet, Fey
+* Gelatinous Cube -> String Slime
+* Ghoul -> Ghoul Stalker
+* Girallon -> Angazhani
+* Gnoll -> Kholo
+* Golem, Alchemical -> Noxious Needler
+* Golem, Clay -> Clay Effigy
+* Golem, Flesh -> CHarnel Creation
+* Golem, Fossil -> Paleohemoth
+* Golem, Iron -> Iron Warden
+* Golem, Stone -> Sone Bulwark
+* Hag, Annis -> Hag, Iron
+* Hag, Green -> Hag, Sweet
+* Hag, Night -> Hag, Cukoo
+* Ifrit -> Naari
+* Intelect Devourer -> Xoarian
+* Invisible Stalker -> Phade
+* Janni -> Jann
+* Kyton -> Velstrac
+* Marid -> Faydhaan
+* Mephit -> Scamp
+* Mite -> Mitflit
+* Ochre Jelly -> Tomb Jelly
+* Quasit -> Imp
+* Sea Devil -> Sedacthy
+* Shaitan -> Jabali
+* Shambling Mound -> Sargassum Heap
+* Svirneblin -> Drathnelar
+* Treant -> Aboreal
 ## Spells
 Cantrips
 * Acid Splash -> Caustic Blast
@@ -288,5 +304,10 @@ Level 1
 * Unseen Servent ->
 
 Level 2
+* Barkskin -> Oaken resilience
+* Death Knell -> *removed*
+* Farie Fire -> Revealing Light
+* See Invisible -> See the Unseen
+
 ## Tags and Weaknesses
 Good weakness becomes holy weakness
