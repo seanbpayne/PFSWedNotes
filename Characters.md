@@ -31,12 +31,12 @@ Dwarven throwers
 
 ![](https://i.imgur.com/LhXf55l.png)
 
-Elizia the snake charmer
+Elizia the snake charmer (Level 4+1 Trick)
 * Mister Tickles
 
 ![](https://i.imgur.com/nLF0SiS.png)
 
-Feather-Fall five
+Feather-Fall five (Level 4 Trick)
 * Kanbali family - Aihab^ and Dhelbi^ (parents), Odvi^, Xondi^, and Sumesh^
 
 ![](https://i.imgur.com/ngz7TQs.png)
@@ -52,6 +52,9 @@ Mordane's Assistant Hod
 Flamboni Sisters - Vida^ and Advi^
 
 ![](https://i.imgur.com/wNSNsle.png)
+
+Fidget
+![](images/Fidget.png)
 
 ## Sideshow of Everyday Marvels
 Professor Zarlian Kyosophus - Half-elf Male
