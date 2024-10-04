@@ -7,7 +7,20 @@ Notes for the Wednesday Extinction Curse game at Dragons Lair Medical Center.
 
 [PF2 Rules Cheatsheet](rules.md)
 
-Current date in game: Starday, [04 Erastus 4720 AR](https://www.dungeonetics.com/calendar/?calyear=4720&month=6&start_dow=1). Current location is Abberton on the Isle of Erran, in the Inner Sea. Current circus prestige is 2.
+Current date in game: Starday, [01 Arodus 4720 AR](https://www.dungeonetics.com/calendar/?calyear=4720&month=7&start_dow=1). Current location is Escdar on the Isle of Erran, in the Inner Sea. Current circus prestige is 4.
+* 28 Sarenith - Start of campaign
+* 29 Sarenith - Exploring Abbadar
+* 30 Sarenith - Travel to Hermitage
+* 01 Erastus - Explore Hermitage
+* 02 Erastus - Travel back from Hermitage
+* 03 to 11 Erastus - Host circus
+* 12 Erastus - Travel to & exploreErran Tower
+* 13 Erastus - Explore tower
+* 14 to 19 Erastus - Pack up circus
+* 20 to 23 Erastus - Travel to Escdar
+* 24 Erastus - Negotiate for permission to perform
+* 25 Erastus - Explore plot
+* 26 Erastus to 01 Arodus - Host circus
 
 # Out of Character Notes
 ## Rules
@@ -54,6 +67,9 @@ Encounter Building/Tracking
 
 ## Maps
 https://posterazor.sourceforge.io/
+
+# Cool Links
+[Initiative Tracker](https://www.thingiverse.com/thing:6303252)
 
 ## RPG Music
 https://syrinscape.com/

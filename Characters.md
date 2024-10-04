@@ -91,36 +91,39 @@ Bardolph
 
 ![](images/Bardolph.jpg)
 
-Myron "Thunder" Stendhal
+Myron "Thunder" Stendhal (deceased)
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/d/d3/Marko-horvatin-the-professor.jpg/revision/latest?cb=20200809125557)
 
 About 5 other non-performer NPCs
 
 # Abberton & Area
-Mayor Jae Abber
+Bindo and Jano Lindell - male human brothers
+
+Cannono (male sprite) and Tarisia (female sprite)
+
+Jae Abber - male human mayor of Abberton
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/d/d1/Mayor_Abber.png/revision/latest?cb=20200823172212)
 
-Sheriff Ralhain (dead)
+Jaleen and Rhovo - male human drunkards
 
-Drunkards - Jaleen and Rhovo
-
-Hafton Family - Seirah, Rikart, and Aima
-* Rikart Hafton ![](images/Rikart%20Hafton.png)
-* Seirah Hafton ![](images/Seirah%20Hafton.png)
-* Aima Hafton ![](images/Aima%20Hafton.png)
+Hawfton Family - Seirah, Rikart, and Aima
+* Rikart Hawfton ![](images/Rikart%20Hafton.png)
+* Seirah Hawfton ![](images/Seirah%20Hafton.png)
+* Aima Hawfton ![](images/Aima%20Hafton.png)
 
 Hemmema, a grandmother
 
 ![](images/Hemmema.png)
 
-Fey - Tarisia and Cannono
+Nellyn Drend, priest-banker of Abadar
 
-Goldenlaws Church - Nellyn Drend, priest-banker
-![](images/Nellyn Drend.png)
+![](images/Nellyn%20Drend.png)
 
-Lindell Brothers - Jano and Bindo Lindell
+Ralhain - Male human sheriff (deceased)
+
+Unnamed gnome orchard tender
 
 ## Mad Mug
 * Lenky & Beina - owners
@@ -129,8 +132,41 @@ Lindell Brothers - Jano and Bindo Lindell
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/d/df/Tdarko-stojanovic-pruana-two-punch-web2.jpg/revision/latest?cb=20201222202331)
 
-# Hermitage of Blessed Lightning
-Harlock Hamdeel
+## Hermitage of Blessed Lightning
+Bak - gaunt male human
+
+Carlessa - female human animal handler
+
+Ebbern - male human (deceased)
+
+Enkrisha - female human (deceased)
+
+Faldinor - male human (deceased)
+
+Harlock Hamdeel - male human priest
+
+![](https://www.scabard.com/user/beccastareyes/image/harlock.webp?imaged=260)
+
+Horba - brute human female
+
+Lessa - elderly female human
+
+Nemmia Bramblecloak (deceased)
+
+![](https://www.scabard.com/user/SteinMpls/image/nemmia.jpeg)
+
+Threndel - male human (deceased)
+
+Yoril - Female human (deceased)
+
+# Escadar
+Andera Paldreen
+
+![](https://www.scabard.com/user/SteinMpls/image/andera-paldreen.webp?imaged=260)
+
+Darricus Stallit - Human Senior City Guard
+
+![](https://www.scabard.com/user/SteinMpls/image/darricus-stallit.webp)
 
 # Celestial Menagerie
 ## Mistress Dusklight
@@ -141,9 +177,17 @@ Daring Danika - Female human lion-tamer with Leandrus - Male lion
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/3/37/Unknown-1.png/revision/latest?cb=20201218164910)
 
+Delamar Gianvin
+
+![](https://www.scabard.com/user/SteinMpls/image/delamar.webp)
+
 Jellico Bounce-Bounce - Male human clown
 
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/e/ed/Jellico_Bounce_Bounce.jpg/revision/latest?cb=20201218200831)
+
+Ruanna Nyamma - Female half-elf carnival barker
+
+![](https://www.scabard.com/user/SteinMpls/image/ruanna.webp)
 
 Viktor Volkano - Male Human fire-breather
 
@@ -152,3 +196,12 @@ Viktor Volkano - Male Human fire-breather
 ## Others
 Mechanical Carny
 ![](images/Mechanical%20Carney.png)
+
+# Xulgath and allies 
+Balenni - Succubus (deceased)
+
+![](images/Balenni.png)
+
+Cavnakash - Xulgath cleric of Zevgavizeb
+
+![](images/cavnakash.jpeg)
