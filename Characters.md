@@ -193,6 +193,11 @@ Viktor Volkano - Male Human fire-breather
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2011_1015_190306AA.JPG/800px-2011_1015_190306AA.JPG?20150116050412)
 
+## Sideshow
+Kalkek the Grinning Goblin (deceased) - Turned out to be a barghest
+
+![](images/Kalkek.png)
+
 ## Others
 Mechanical Carny
 ![](images/Mechanical%20Carney.png)
