@@ -59,9 +59,15 @@ Generic item bonuses always apply.
 ## Available Trick Traits
 **Agile:** The penalty for performing an agile trick a second or third time in the same act is –4 or –8, respectively, instead of –5 or –10.
 
+**Alchemical:** As part of the trick, the performer can expend one alchemical item in their possession. Upon doing so, the performer gains a +1 circumstance bonus to their trick check. This destroys the item.
+
 **Animal (Nature):** The trick utilizes trained animals.
 
 **Fire (Intimidation):** This trick involves fire, smoke, or pyrotechnics. 
+
+**Injury:** Anytime a PC uses a saving throw for one of the trick checks, the trick has this trait. If an NPC or PC performing a trick with the injury trait critically fails any trick check, they have a chance of becoming injured. To determine if the performer is injured, roll a flat DC 15 check. On a failure, the performer becomes injured. An injured performer (whether PC or NPC) cannot perform tricks for the rest of the show. In addition, at the beginning of the next show, the injured performer must succeed at a flat DC 15 check to determine if they have recovered sufficiently to perform again. On a failure, the performer cannot perform in that show, either due to the lasting effects of the injury or due to fright of becoming injured again. A performer can miss only one show after the show in which they were injured. On subsequent shows, no check is necessary and the PC or NPC can once again perform as normal.
+
+**Prop (Crafting):** The trick requires the use of some mundane prop or stage setup.
 
 **Team**: This trick requires more than one person. Anytime a PC performing a signature trick accepts the Costar reaction from a performer, the trick has this trait. 
 
@@ -72,8 +78,6 @@ Generic item bonuses always apply.
 **Aerial (Acrobatics):** The trick involves flight by either magical or mundane means.
 
 **Air (Survival):** The trick involves the manipulation of mist, wind, or another prop with atmospheric properties.
-
-**Alchemical:** As part of the trick, the performer can expend one alchemical item in their possession. Upon doing so, the performer gains a +1 circumstance bonus to their trick check. This destroys the item.
 
 **Audience (Society):** The audience participates in the trick.
 
@@ -87,8 +91,6 @@ Generic item bonuses always apply.
 Excitement or Anticipation.
 
 **Explosive^:** Tricks with the explosive trait call attention away from other acts distracting them from slight mistakes. This trick gains the injury trait but other tricks performed at the same time have -1 to their DC.
-
-**Injury:** Anytime a PC uses a saving throw for one of the trick checks, the trick has this trait. If an NPC or PC performing a trick with the injury trait critically fails any trick check, they have a chance of becoming injured. To determine if the performer is injured, roll a flat DC 15 check. On a failure, the performer becomes injured. An injured performer (whether PC or NPC) cannot perform tricks for the rest of the show. In addition, at the beginning of the next show, the injured performer must succeed at a flat DC 15 check to determine if they have recovered sufficiently to perform again. On a failure, the performer cannot perform in that show, either due to the lasting effects of the injury or due to fright of becoming injured again. A performer can miss only one show after the show in which they were injured. On subsequent shows, no check is necessary and the PC or NPC can once again perform as normal.
 
 **Juggling:** This act involves some form of keeping multiple objects in the air at the same time.
 
