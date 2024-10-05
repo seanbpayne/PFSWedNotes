@@ -26,7 +26,7 @@ Current date in game: Starday, [01 Arodus 4720 AR](https://www.dungeonetics.com/
 ## Rules
 * We are playing with the Free Archetype
 * No uncommon or rare without asking
-* I’m fine with players rolling “secret” checks if they are willing to roleplay not knowing if they fail
+* I’m fine with players rolling what should be “secret” checks if they are willing to roleplay not knowing if they fail
 * Hero points can’t turn a failure into a critical failure
 ### Clang-Clang
 If a PC is out of hero points and fail an important check they can appeal to Clang-Clan to give them a reroll. This is a Fortune effect.
