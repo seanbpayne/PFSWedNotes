@@ -27,9 +27,13 @@ Current date in game: Starday, [01 Arodus 4720 AR](https://www.dungeonetics.com/
 * We are playing with the Free Archetype
 * No uncommon or rare without asking
 * I’m fine with players rolling what should be “secret” checks if they are willing to roleplay not knowing if they fail
+* All characters get Circus Lore as a bonus skill
+### Clang-Clang's boons
+Clang-Clang is a demigod of the circus and looks favorably on circus performers. 
+* Rerolling with a hero point gives a +1 circumstance bonus to the reroll.
 * Hero points can’t turn a failure into a critical failure
-### Clang-Clang
-If a PC is out of hero points and fail an important check they can appeal to Clang-Clan to give them a reroll. This is a Fortune effect.
+* If a PC is out of hero points and fail an important check they can appeal to Clang-Clan to give them a reroll. This is a Fortune effect.
+* There are other possible uses of a hero point. You can trade a hero point for a two-action heal spell, cast at the highest level that a caster of the PC's level could cast (no more than once per session, only during exploration mode).
 
 ## Campaign Information
 [Pazio Store Page for Extinction Curse](https://paizo.com/store/pathfinder/adventures/adventurePath/extinctioncurse)

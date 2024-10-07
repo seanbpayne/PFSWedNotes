@@ -260,3 +260,30 @@ Currently have 14
 Portions of this page are covered under the OPEN GAME LICENSE VERSION 1.0A. Sources: 
 * Pathfinder Adventure Path #151: The Show Must Go On (Extinction Curse 1 of 6), by Paizo press. https://paizo.com/products/btq01zqb
 * Circus Rules Plus+, https://scribe.pf2.tools/v/QT82vSYx-circus-rules-plus
+
+# Performer reputation
+## Circus reputation boons
+At 6th level all player characters get the following benefits
+* A hireling/servant/assistant that helps them outside of combat. A trained hireling is trained in one skill and one lore skill. An expert hireling is an expert in one skill and one lore skill.
+
+A PC can choose from one of the following: 
+* One of the options from the PFS reputation boons.
+* A uncommon or rare unlock.
+
+
+## PFS Reputation boons
+At level 6 the players should have (5x12) 60 reputation (admired) if using the PFS rules. This would give several benefits
+* Custom wayfinder
+* Crafter's Workshop (Envoy's Alliance) - Your friends in the Envoy’s Alliance share crafting materials and collaborate to create new items more efficiently. You only need to spend 1 day of downtime before attempting your skill check and subsequently beginning to reduce the item’s effective cost.
+* Bring Them Back Alive (Envoy's Alliance) - You and your allies treat your effective character levels as 1 lower for the purpose of the raise dead spell and the resurrection ritual. This applies to both the level of the spell or ritual required, as well as to calculating the cost of the diamonds necessary to cast the spell or perform the ritual.
+* Off-Hours Study (Grand Archive)
+* Steady Hand (Grand Archive) - Steady Hand [free-action] (fortune) Roll twice and take the higher result on a Thievery check. You can only activate this ability before rolling the check.
+* Storied Talent (Horizon Hunters)
+* Exotic Edge (Horizon Hunters) - Once per adventure, you can activate this boon as a free action to apply these techniques, gaining a +1 circumstance bonus to either all of your attack rolls or all of your skill checks for 1 round.
+* Adversary Lore (Vigilant Seal) - When you purchase this boon, either select one creature type from List 1 below, or choose two creature types from List 2. You gain a +1 circumstance bonus to Recall Knowledge about creatures of the selected type(s). If your Reputation tier with the Vigilant Seal is Revered, this bonus increases to +2.
+* Curse Breaker (Vigilant Seal)
+* Practiced Medic (Radiant Oath)
+* Ward against Fiends (Radiant Oath) - Once per adventure, when you roll a critical failure on a saving throw against a fiend, you get a failure instead.
+* Natural Skill (Verdant Wheel) - If you are at least trained in Nature, you gain a bonus skill feat from the following list: Natural Medicine, Quick Identification, Recognize Spell, or Train Animal. If you have already selected one of these feats, you can freely retrain your selection.
+* Naturalist (Verdant Wheel)
+* Leshy Companion (Verdant Wheel)
