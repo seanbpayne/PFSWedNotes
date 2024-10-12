@@ -311,3 +311,6 @@ Level 2
 
 ## Tags and Weaknesses
 Good weakness becomes holy weakness
+
+# D&D 5E conditions to Pathfinder 2E Conditions
+TBD

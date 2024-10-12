@@ -7,6 +7,8 @@ Notes for the Wednesday Extinction Curse game at Dragons Lair Medical Center.
 
 [PF2 Rules Cheatsheet](rules.md)
 
+[Game Tools](tools.md)
+
 Current date in game: Starday, [01 Arodus 4720 AR](https://www.dungeonetics.com/calendar/?calyear=4720&month=7&start_dow=1). Current location is Escdar on the Isle of Erran, in the Inner Sea. Current circus prestige is 4.
 * 28 Sarenith - Start of campaign
 * 29 Sarenith - Exploring Abbadar
@@ -29,7 +31,7 @@ Current date in game: Starday, [01 Arodus 4720 AR](https://www.dungeonetics.com/
 * I’m fine with players rolling what should be “secret” checks if they are willing to roleplay not knowing if they fail
 * All characters get Circus Lore as a bonus skill
 ### Clang-Clang's boons
-Clang-Clang is a demigod of the circus and looks favorably on circus performers. 
+Clang-Clang is a demigod of the circus and looks favorably on circus performers. He aligns to Desna
 * Rerolling with a hero point gives a +1 circumstance bonus to the reroll.
 * Hero points can’t turn a failure into a critical failure
 * If a PC is out of hero points and fail an important check they can appeal to Clang-Clan to give them a reroll. This is a Fortune effect.
@@ -72,27 +74,3 @@ Encounter Building/Tracking
 ## Maps
 https://posterazor.sourceforge.io/
 
-# Cool Links
-[Initiative Tracker](https://www.thingiverse.com/thing:6303252)
-
-## RPG Music
-https://syrinscape.com/
-
-https://tabletopaudio.com/
-* Combat
-    * Rope Bridge
-    * Through the Woods
-* Generic Background Music
-    * Western Watchtower
-* Rest
-    * Halfling Lodge
-    * Long Rest
-* Suspense
-    * Halfling Sneak
-
-## Sound sources
-https://freesound.org/
-
-https://www.findsounds.com/
-
-https://freesfx.co.uk/
