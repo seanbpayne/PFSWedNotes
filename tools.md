@@ -38,7 +38,7 @@ Disables: yellow (FFFF00)
 |---------|-------------|--------------|
 | [Dying](https://game-icons.net/1x1/lorc/skull-crossed-bones.html)|  <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/skull-crossed-bones.svg" width="100" height="100"> | ![](conditions/dying.svg) |
 | Fleeing
-| [Paralized](https://game-icons.net/1x1/lorc/padlock.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/padlock.svg" width="100" height="100"> | ![](conditions/paralized.svg) |
+| [paralyzed](https://game-icons.net/1x1/lorc/padlock.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/padlock.svg" width="100" height="100"> | ![](conditions/paralyzed.svg) |
 | [Petrified](https://game-icons.net/1x1/lorc/cracked-mask.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/cracked-mask.svg" width="100" height="100"> | ![](conditions/petrified.svg) |
 | [Stunned](https://game-icons.net/1x1/skoll/knockout.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/skoll/knockout.svg" width="100" height="100"> | ![](conditions/stunned.svg) |
 | [Unconscious](https://game-icons.net/1x1/delapouite/dead-head.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/delapouite/dead-head.svg" width="100" height="100"> | ![](conditions/unconscious.svg) |
@@ -72,19 +72,20 @@ Physically restricted: gray (808080)
 Spell buffs: powder blue (B0CEE2)
 | Ability | Source Icon | Target Image |
 |---------|-------------|--------------|
-| Bless | |
-| Enlarged | |
-| Guidance | |
+| Bless | | |
+| Enlarged | | |
+| Guidance | | |
 | [Quickened](https://game-icons.net/1x1/lorc/fire-dash.html) |<img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/fire-dash.svg" width="100" height="100"> | ![](conditions/quickened.svg)
-| Runic Body/Weapon | |
+| Regeneration | | |
+| Runic Body/Weapon | | |
 | [Speed Boosted](https://game-icons.net/1x1/lorc/run.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/run.svg" width="100" height="100"> | ![](conditions/speedboost.svg)
-| Truesight | |
+| Truesight | | |
 
 Spell debuffs: red (FF0000)
 | Ability | Source Icon | Target Image |
 |---------|-------------|--------------|
-| Bane | |
-| Speed Reduced | |
+| [Bane](https://game-icons.net/1x1/lorc/death-zone.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/death-zone.svg" width="100" height="100"> | |
+| Speed Reduced | | |
 
 Sustaining: teal (008080)
 | Ability | Source Icon | Target Image |
@@ -106,19 +107,42 @@ Visibility/illusion: black (000000)
 Weakened: green (00AA00)
 | Ability | Source Icon | Target Image |
 |---------|-------------|--------------|
-| Afflicted | |
+| Afflicted | | |
 | [Can't Take Reactions](https://game-icons.net/1x1/delapouite/shrug.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/delapouite/shrug.svg" width="100" height="100"> | ![](conditions/noreact.svg) |
-| Clumsy | |
+| Clumsy | | |
 | [Deafened](https://game-icons.net/1x1/skoll/hearing-disabled.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/skoll/hearing-disabled.svg" width="100" height="100"> | ![](conditions/deafened.svg) |
-| Doomed | |
-| Drained | |
-| Enfeebled | |
+| Doomed | | |
+| [Drained](https://game-icons.net/1x1/lorc/life-tap.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/life-tap.svg" width="100" height="100"> | |
+| [Enfeebled](https://game-icons.net/1x1/lorc/imprisoned.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/imprisoned.svg" width="100" height="100"> | |
 | [Frightened](https://game-icons.net/1x1/lorc/terror.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/terror.svg" width="100" height="100"> | ![](conditions/frightened.svg) |
-| Penalty to Saves | |
+| Minion | | |
+| Penalty to Saves | | |
 | [Persistant Damage](https://game-icons.net/1x1/lorc/small-fire.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/small-fire.svg" width="100" height="100"> | ![](conditions/persistdam.svg) |
 | [Sickened](https://game-icons.net/1x1/lorc/vomiting.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/vomiting.svg" width="100" height="100"> | ![](conditions/sickened.svg) |
 | [Slowed](https://game-icons.net/1x1/delapouite/tortoise.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/delapouite/tortoise.svg" width="100" height="100"> | ![](conditions/slowed.svg) |
 | [Stupefied](https://game-icons.net/1x1/lorc/nailed-head.html) | <img src="https://game-icons.net/icons/ffffff/000000/1x1/lorc/nailed-head.svg" width="100" height="100"> | ![](conditions/stupefied.svg) |
+
+## Token Mapping - Same
+Blind -> blind
+Deafened -> Deafened
+Dying -> dying
+Frightened -> frightened
+Grappled -> grabbed
+Invisible -> invisible
+Paralized -> paralized
+Petrified -> petrified
+Prone -> prone
+Restrained -> restrained
+Stunned -> stunned
+Unconscious -> unconscious
+
+## Token Mapping -> different
+Bleeding -> none
+Burning -> persistent damage
+Exhausted -> fatigued
+Incapacitated -> Immobalized
+Poisoned -> sickened
+
 
 ## Other ideas
   Print token/counter to keep track of focus points

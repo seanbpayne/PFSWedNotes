@@ -13,48 +13,49 @@
 ### ManJe' Foxx
 ![](images/Manje.png)
 
+Manje' has Ember, his companion. ManJe and Fidget have become close friends.
+
 ### Mithril-Dar
 ![](images/Mithril-Dar.png)
 
 ### Portia
 ![](images/Portia.jpg)
 
+Portia and Elizia have become close friends.
+
 ### Zathra "Azure Treasure"
 ![](images/Zathra.png)
 
 ## Other Performers
-Axel and His Amazing Aviary
-
+### Axel and His Amazing Aviary
 ![](https://i.imgur.com/hlhHCM5.png)
 
-Dwarven throwers
-
+### Dwarven throwers
 ![](https://i.imgur.com/LhXf55l.png)
 
-Elizia the snake charmer (Level 4+1 Trick)
-* Mister Tickles
-
+### Elizia the snake charmer (Level 4+1 Trick) & Mister Tickles
 ![](https://i.imgur.com/nLF0SiS.png)
 
-Feather-Fall five (Level 4 Trick)
+### Feather-Fall five (Level 4 Trick)
 * Kanbali family - Aihab^ and Dhelbi^ (parents), Odvi^, Xondi^, and Sumesh^
 
 ![](https://i.imgur.com/ngz7TQs.png)
 
-Mordaine the Magician
-
+### Mordaine the Magician
 ![](https://i.imgur.com/gsMBeSZ.png)
 
-Mordane's Assistant Hod
-
+### Mordane's Assistant Hod
 ![](https://static.wikia.nocookie.net/dice-will-roll/images/e/e5/Hod.png/revision/latest?cb=20200820175637)
 
-Flamboni Sisters - Vida^ and Advi^
+### Flamboni Sisters - Vida^ and Advi^
 
 ![](https://i.imgur.com/wNSNsle.png)
 
-Fidget
+### Fidget
 ![](images/Fidget.png)
+
+### Ailes the Smoke Dragon
+![](images/Smoke.png)
 
 ## Sideshow of Everyday Marvels
 Professor Zarlian Kyosophus - Half-elf Male

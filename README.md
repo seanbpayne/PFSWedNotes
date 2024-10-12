@@ -9,7 +9,7 @@ Notes for the Wednesday Extinction Curse game at Dragons Lair Medical Center.
 
 [Game Tools](tools.md)
 
-Current date in game: Starday, [01 Arodus 4720 AR](https://www.dungeonetics.com/calendar/?calyear=4720&month=7&start_dow=1). Current location is Escdar on the Isle of Erran, in the Inner Sea. Current circus prestige is 4.
+Current date in game: Moonday, [03 Arodus 4720 AR](https://www.dungeonetics.com/calendar/?calyear=4720&month=7&start_dow=1). Current location is Escdar on the Isle of Erran, in the Inner Sea. Current circus prestige is 4.
 * 28 Sarenith - Start of campaign
 * 29 Sarenith - Exploring Abbadar
 * 30 Sarenith - Travel to Hermitage
@@ -22,7 +22,8 @@ Current date in game: Starday, [01 Arodus 4720 AR](https://www.dungeonetics.com/
 * 20 to 23 Erastus - Travel to Escdar
 * 24 Erastus - Negotiate for permission to perform
 * 25 Erastus - Explore plot
-* 26 Erastus to 01 Arodus - Host circus
+* 26 Erastus to 02 Arodus - Host circus
+* 03 Arodus - Exploring Escdar and into the temple
 
 # Out of Character Notes
 ## Rules
