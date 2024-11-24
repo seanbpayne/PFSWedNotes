@@ -270,6 +270,7 @@ Permanent Magic +3, item 17, 12,000-15,000 gp
 * Shambling Mound -> Sargassum Heap
 * Svirneblin -> Drathnelar
 * Treant -> Aboreal
+
 ## Spells
 Cantrips
 * Acid Splash -> Caustic Blast
@@ -301,13 +302,29 @@ Level 1
 * Shillelagh -> 
 * Shocking Grasp ->
 * True Strike ->
-* Unseen Servent ->
+* Unseen Servent -> phantasmal minion
 
 Level 2
 * Barkskin -> Oaken resilience
+* Comprehend Language -> Translate
 * Death Knell -> *removed*
 * Farie Fire -> Revealing Light
+* Hiddeous Laughter -> Laughing Fit
+* Touch of Idiocy -> Stupify
 * See Invisible -> See the Unseen
+* Spectral Hand -> *removed*
+
+Level 3
+* 
+
+Level 4
+* Phantasmal Killer -> Vision of Death
+
+Level 5
+* Crushing Despair -> Wave of Despair
+
+Level 6
+* Feeblemind -> Never Mind
 
 ## Tags and Weaknesses
 Good weakness becomes holy weakness
